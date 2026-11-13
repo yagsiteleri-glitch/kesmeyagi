@@ -1,0 +1,478 @@
+[
+  {
+    "id": "artoil-kesme-yagi-16-l",
+    "name": "Artoil Kesme Yağı - 16 L",
+    "brand": "artoil",
+    "brandName": "Artoil",
+    "series": "Saf Kesme Yağı",
+    "viscosity": "ISO VG 22",
+    "packageSize": "16 L",
+    "packageType": "Teneke",
+    "inStock": true,
+    "featured": true,
+    "shortDescription": "Artoil Kesme Yağı - 16 L, metal işleme ve talaş kaldırma operasyonlarında takım ömrünü uzatan aşırı basınç (EP) katkılı saf kesme yağıdır.",
+    "description": "<p class=\"lead\"><strong>Artoil Kesme Yağı - 16 L</strong>, demir ve çelik alaşımlarının tornalama, frezeleme, delik delme ve diş açma gibi zorlu talaşlı imalat operasyonlarında sürtünmeyi en aza indirmek ve kesici takım ömrünü maksimize etmek üzere yüksek oranda klor ve kükürt içermeyen özel EP katıkları ile formüle edilmiş üstün bir saf kesme yağıdır.</p>\n\n<h3>Öne Çıkan Özellikleri ve Avantajları</h3>\n<ul>\n  <li><strong>Üstün Yağlama ve Takım Ömrü:</strong> Talaş ile takım arasındaki sürtünmeyi azaltarak kesici uç aşınmalarını önler.</li>\n  <li><strong>Duman ve Sis Oluşturmama:</strong> Yüksek sıcaklıklarda duman yapmaz, tezgah operatörleri için temiz ve sağlıklı bir çalışma ortamı sunar.</li>\n  <li><strong>Mükemmel Yüzey Pürüzsüzlüğü:</strong> İşlenen parçalarda ayna parlaklığında hassas yüzey kalitesi sağlar.</li>\n  <li><strong>Korozyon Koruması:</strong> İşleme sonrasında metal parçalarda pas oluşumunu engeller.</li>\n</ul>\n\n<h3>Kullanım ve Uygulama Alanları</h3>\n<p>Otomat torna tezgahları, diş açma, broşlama, kılavuz çekme ve genel talaşlı imalat işlemleri.</p>",
+    "specs": [
+      {
+        "label": "Ürün Tipi",
+        "value": "Saf (Suyla Karışmayan) Kesme Yağı"
+      },
+      {
+        "label": "Viskozite",
+        "value": "ISO VG 22"
+      },
+      {
+        "label": "Parlama Noktası",
+        "value": "> 190°C"
+      },
+      {
+        "label": "Marka",
+        "value": "Artoil"
+      }
+    ],
+    "image": "/images/products/artoil-kesme-yagi-16-l.png",
+    "msdsUrl": "https://wa.me/905069401210?text=%5Bkesmeyagi.com%5D%20Artoil%20Kesme%20Yagi%20MSDS",
+    "tdsUrl": "https://wa.me/905069401210?text=%5Bkesmeyagi.com%5D%20Artoil%20Kesme%20Yagi%20TDS"
+  },
+  {
+    "id": "mobilmet-766-20-l",
+    "name": "Mobilmet 766 - 20 L",
+    "brand": "mobil",
+    "brandName": "Mobil",
+    "series": "Mobilmet 700 Serisi",
+    "viscosity": "ISO VG 36",
+    "packageSize": "20 L",
+    "packageType": "Teneke",
+    "inStock": true,
+    "featured": true,
+    "shortDescription": "Mobilmet 766 - 20 L, zorlu talaş kaldırma ve diş açma işlemleri için klor içermeyen yüksek performanslı saf kesme yağıdır.",
+    "description": "<p class=\"lead\"><strong>Mobilmet 766 - 20 L</strong>, ağır hizmet tipi metal işleme operasyonlarında kesici takımları aşırı basınca karşı korumak ve duman yapmadan pürüzsüz kesim sağlamak amacıyla geliştirilmiş klor içermeyen üst düzey bir saf kesme yağıdır.</p>",
+    "specs": [
+      {
+        "label": "Tip",
+        "value": "Ağır Hizmet Saf Kesme Yağı"
+      },
+      {
+        "label": "Viskozite",
+        "value": "ISO VG 36"
+      },
+      {
+        "label": "Marka",
+        "value": "Mobil"
+      }
+    ],
+    "image": "/images/products/mobilmet-766-20-l.jpg",
+    "msdsUrl": "https://wa.me/905069401210?text=%5Bkesmeyagi.com%5D%20Mobilmet%20766%20MSDS",
+    "tdsUrl": "https://wa.me/905069401210?text=%5Bkesmeyagi.com%5D%20Mobilmet%20766%20TDS"
+  },
+  {
+    "id": "petrol-ofisi-procut-hd-20-l",
+    "name": "Petrol Ofisi Procut HD - 20 L",
+    "brand": "petrol-ofisi",
+    "brandName": "Petrol Ofisi",
+    "series": "Procut HD",
+    "viscosity": "ISO VG 32",
+    "packageSize": "20 L",
+    "packageType": "Teneke",
+    "inStock": true,
+    "featured": true,
+    "shortDescription": "Petrol Ofisi Procut HD - 20 L, yüksek alaşımlı çeliklerin işlenmesinde üstün aşırı basınç koruması sunan saf kesme yağıdır.",
+    "description": "<p class=\"lead\"><strong>Petrol Ofisi Procut HD - 20 L</strong>, paslanmaz çelikler ve sert alaşımlı metallerde ağır kesme, derin delme ve azdırma operasyonları için geliştirilmiş yüksek performanslı saf kesme yağıdır.</p>",
+    "specs": [
+      {
+        "label": "Tip",
+        "value": "Ağır Hizmet Saf Kesme Yağı"
+      },
+      {
+        "label": "Viskozite",
+        "value": "ISO VG 32"
+      },
+      {
+        "label": "Marka",
+        "value": "Petrol Ofisi"
+      }
+    ],
+    "image": "/images/products/petrol-ofisi-procut-hd-20-l.png",
+    "msdsUrl": "https://wa.me/905069401210?text=%5Bkesmeyagi.com%5D%20PO%20Procut%20HD%20MSDS",
+    "tdsUrl": "https://wa.me/905069401210?text=%5Bkesmeyagi.com%5D%20PO%20Procut%20HD%20TDS"
+  },
+  {
+    "id": "petrol-ofisi-procut-md-20-l",
+    "name": "Petrol Ofisi Procut MD - 20 L",
+    "brand": "petrol-ofisi",
+    "brandName": "Petrol Ofisi",
+    "series": "Procut MD",
+    "viscosity": "ISO VG 22",
+    "packageSize": "20 L",
+    "packageType": "Teneke",
+    "inStock": true,
+    "featured": false,
+    "shortDescription": "Petrol Ofisi Procut MD - 20 L, orta zorluktaki talaşlı imalat ve otomat torna işleri için düşük viskoziteli saf kesme yağıdır.",
+    "description": "<p class=\"lead\"><strong>Petrol Ofisi Procut MD - 20 L</strong>, demir ve demir dışı metallerin genel talaş kaldırma operasyonlarında duman yapmayan, mükemmel soğutma ve yağlama sağlayan saf kesme yağıdır.</p>",
+    "specs": [
+      {
+        "label": "Tip",
+        "value": "Orta Hizmet Saf Kesme Yağı"
+      },
+      {
+        "label": "Viskozite",
+        "value": "ISO VG 22"
+      },
+      {
+        "label": "Marka",
+        "value": "Petrol Ofisi"
+      }
+    ],
+    "image": "/images/products/petrol-ofisi-procut-md-20-l.png",
+    "msdsUrl": "https://wa.me/905069401210?text=%5Bkesmeyagi.com%5D%20PO%20Procut%20MD%20MSDS",
+    "tdsUrl": "https://wa.me/905069401210?text=%5Bkesmeyagi.com%5D%20PO%20Procut%20MD%20TDS"
+  },
+  {
+    "id": "artoil-cut-al-15-20-l",
+    "name": "Artoil Cut AL 15 - 20 L",
+    "brand": "artoil",
+    "brandName": "Artoil",
+    "series": "Cut AL",
+    "viscosity": "ISO VG 15",
+    "packageSize": "20 L",
+    "packageType": "Teneke",
+    "inStock": true,
+    "featured": false,
+    "shortDescription": "Artoil Cut AL 15 - 20 L, alüminyum ve yumuşak metallerin lekesiz işlenmesi için özel formüle edilmiş saf kesme yağıdır.",
+    "description": "<p class=\"lead\"><strong>Artoil Cut AL 15 - 20 L</strong>, alüminyum profiller, bakır ve pirinç alaşımlarının işlenmesinde metalde leke ve kararma bırakmayan, mükemmel yüzey kalitesi sunan saf alüminyum kesme yağıdır.</p>",
+    "specs": [
+      {
+        "label": "Uygulama",
+        "value": "Alüminyum & Sarı Metaller"
+      },
+      {
+        "label": "Viskozite",
+        "value": "ISO VG 15"
+      },
+      {
+        "label": "Marka",
+        "value": "Artoil"
+      }
+    ],
+    "image": "/images/products/artoil-cut-al-15-20-l.png",
+    "msdsUrl": "https://wa.me/905069401210?text=%5Bkesmeyagi.com%5D%20Artoil%20Cut%20AL%20MSDS",
+    "tdsUrl": "https://wa.me/905069401210?text=%5Bkesmeyagi.com%5D%20Artoil%20Cut%20AL%20TDS"
+  },
+  {
+    "id": "mobilcut-100-20-l",
+    "name": "Mobilcut 100 - 20 L",
+    "brand": "mobil",
+    "brandName": "Mobil",
+    "series": "Mobilcut Serisi",
+    "viscosity": "Suyla Karışan (Emülsiyon)",
+    "packageSize": "20 L",
+    "packageType": "Teneke",
+    "inStock": true,
+    "featured": true,
+    "shortDescription": "Mobilcut 100 - 20 L, genel talaşlı imalat için yüksek korozyon önleyici katıklara sahip suyla karışan süt beyaz bor yağıdır.",
+    "description": "<p class=\"lead\"><strong>Mobilcut 100 - 20 L</strong>, genel talaşlı imalat tezgahlarında demir ve çelik alaşımlarının işlenmesi için geliştirilmiş, yüksek korozyon koruması ve uzun emülsiyon kararlılığı sunan mineral bazlı geleneksel süt beyaz bor yağıdır.</p>",
+    "specs": [
+      {
+        "label": "Görünüm",
+        "value": "Süt Beyaz Emülsiyon"
+      },
+      {
+        "label": "Tavsiye Karışım",
+        "value": "%5 - %8"
+      },
+      {
+        "label": "Marka",
+        "value": "Mobil"
+      }
+    ],
+    "image": "/images/products/mobilcut-100-20-l.jpg",
+    "msdsUrl": "https://wa.me/905069401210?text=%5Bkesmeyagi.com%5D%20Mobilcut%20100%20MSDS",
+    "tdsUrl": "https://wa.me/905069401210?text=%5Bkesmeyagi.com%5D%20Mobilcut%20100%20TDS"
+  },
+  {
+    "id": "mobilcut-140-20-l",
+    "name": "Mobilcut 140 - 20 L",
+    "brand": "mobil",
+    "brandName": "Mobil",
+    "series": "Mobilcut Serisi",
+    "viscosity": "Suyla Karışan",
+    "packageSize": "20 L",
+    "packageType": "Teneke",
+    "inStock": true,
+    "featured": false,
+    "shortDescription": "Mobilcut 140 - 20 L, orta ve sert sularda mükemmel emülsiyon kararlılığı sunan uzun ömürlü bor yağıdır.",
+    "description": "<p class=\"lead\"><strong>Mobilcut 140 - 20 L</strong>, sert sularda dahi köpürmeyen ve koku yapmayan, CNC işleme merkezlerinde uzun tank ömrü sağlayan yüksek performanslı bir bor yağıdır.</p>",
+    "specs": [
+      {
+        "label": "Tip",
+        "value": "Suda Çözünür Metal İşleme Sıvısı"
+      },
+      {
+        "label": "Tavsiye Karışım",
+        "value": "%6 - %10"
+      },
+      {
+        "label": "Marka",
+        "value": "Mobil"
+      }
+    ],
+    "image": "/images/products/mobilcut-140-20-l.png",
+    "msdsUrl": "https://wa.me/905069401210?text=%5Bkesmeyagi.com%5D%20Mobilcut%20140%20MSDS",
+    "tdsUrl": "https://wa.me/905069401210?text=%5Bkesmeyagi.com%5D%20Mobilcut%20140%20TDS"
+  },
+  {
+    "id": "mobilcut-210-20-l",
+    "name": "Mobilcut 210 - 20 L",
+    "brand": "mobil",
+    "brandName": "Mobil",
+    "series": "Mobilcut Serisi",
+    "viscosity": "Yarı Sentetik",
+    "packageSize": "20 L",
+    "packageType": "Teneke",
+    "inStock": true,
+    "featured": false,
+    "shortDescription": "Mobilcut 210 - 20 L, yüksek talaş kaldırma operasyonları için mükemmel soğutma sağlayan yarı sentetik bor yağıdır.",
+    "description": "<p class=\"lead\"><strong>Mobilcut 210 - 20 L</strong>, yarı sentetik mikro emülsiyon yapısıyla yüksek devirli CNC frezeleme ve tornalamada üstün soğutma ve talaş tahliyesi sağlayan kaliteli bor yağıdır.</p>",
+    "specs": [
+      {
+        "label": "Tip",
+        "value": "Yarı Sentetik Mikro-Emülsiyon"
+      },
+      {
+        "label": "Marka",
+        "value": "Mobil"
+      }
+    ],
+    "image": "/images/products/mobilcut-210-20-l.png",
+    "msdsUrl": "https://wa.me/905069401210?text=%5Bkesmeyagi.com%5D%20Mobilcut%20210%20MSDS",
+    "tdsUrl": "https://wa.me/905069401210?text=%5Bkesmeyagi.com%5D%20Mobilcut%20210%20TDS"
+  },
+  {
+    "id": "mobilcut-240-20-l",
+    "name": "Mobilcut 240 - 20 L",
+    "brand": "mobil",
+    "brandName": "Mobil",
+    "series": "Mobilcut Serisi",
+    "viscosity": "Yarı Sentetik",
+    "packageSize": "20 L",
+    "packageType": "Teneke",
+    "inStock": true,
+    "featured": false,
+    "shortDescription": "Mobilcut 240 - 20 L, çelik ve alüminyum alaşımları için lekesiz çok amaçlı yarı sentetik bor yağıdır.",
+    "description": "<p class=\"lead\"><strong>Mobilcut 240 - 20 L</strong>, hem çelik hem de alüminyum işleme operasyonlarında leke bırakmadan yüksek takım ömrü sunan çok amaçlı yarı sentetik kesme sıvısıdır.</p>",
+    "specs": [
+      {
+        "label": "Tip",
+        "value": "Yarı Sentetik Bor Yağı"
+      },
+      {
+        "label": "Marka",
+        "value": "Mobil"
+      }
+    ],
+    "image": "/images/products/mobilcut-240-20-l.png",
+    "msdsUrl": "https://wa.me/905069401210?text=%5Bkesmeyagi.com%5D%20Mobilcut%20240%20MSDS",
+    "tdsUrl": "https://wa.me/905069401210?text=%5Bkesmeyagi.com%5D%20Mobilcut%20240%20TDS"
+  },
+  {
+    "id": "mobilcut-250-20-l",
+    "name": "Mobilcut 250 - 20 L",
+    "brand": "mobil",
+    "brandName": "Mobil",
+    "series": "Mobilcut Serisi",
+    "viscosity": "Yarı Sentetik",
+    "packageSize": "20 L",
+    "packageType": "Teneke",
+    "inStock": true,
+    "featured": true,
+    "shortDescription": "Mobilcut 250 - 20 L, alüminyum ve hassas alaşımlarda leke yapmayan yüksek performanslı yarı sentetik bor yağıdır.",
+    "description": "<p class=\"lead\"><strong>Mobilcut 250 - 20 L</strong>, otomotiv ve havacılık endüstrisinde kullanılan alüminyum ve demir alaşımlarının işlenmesi için özel katıklarla formüle edilmiş, lekesiz parlak yüzeyler sunan premium yarı sentetik bor yağıdır.</p>",
+    "specs": [
+      {
+        "label": "Tip",
+        "value": "Yarı Sentetik Alüminyum & Çelik Bor Yağı"
+      },
+      {
+        "label": "Marka",
+        "value": "Mobil"
+      }
+    ],
+    "image": "/images/products/mobilcut-250-20-l.png",
+    "msdsUrl": "https://wa.me/905069401210?text=%5Bkesmeyagi.com%5D%20Mobilcut%20250%20MSDS",
+    "tdsUrl": "https://wa.me/905069401210?text=%5Bkesmeyagi.com%5D%20Mobilcut%20250%20TDS"
+  },
+  {
+    "id": "mobilcut-320-20-l",
+    "name": "Mobilcut 320 - 20 L",
+    "brand": "mobil",
+    "brandName": "Mobil",
+    "series": "Mobilcut Serisi",
+    "viscosity": "Tam Sentetik",
+    "packageSize": "20 L",
+    "packageType": "Teneke",
+    "inStock": true,
+    "featured": true,
+    "shortDescription": "Mobilcut 320 - 20 L, taşlama ve hafif talaşlı imalat için şeffaf, bakteri üretmeyen tam sentetik taşlama sıvısıdır.",
+    "description": "<p class=\"lead\"><strong>Mobilcut 320 - 20 L</strong>, taşlama taşlarının tıkanmasını önleyen, hızlı talaş çökeltme özelliği ve berrak şeffaf görüntüsü ile iş parçasının net izlenmesini sağlayan mineral yağ içermeyen tam sentetik taşlama ve kesme sıvısıdır.</p>",
+    "specs": [
+      {
+        "label": "Tip",
+        "value": "Tam Sentetik Şeffaf Taşlama Sıvısı"
+      },
+      {
+        "label": "Marka",
+        "value": "Mobil"
+      }
+    ],
+    "image": "/images/products/mobilcut-320-20-l.png",
+    "msdsUrl": "https://wa.me/905069401210?text=%5Bkesmeyagi.com%5D%20Mobilcut%20320%20MSDS",
+    "tdsUrl": "https://wa.me/905069401210?text=%5Bkesmeyagi.com%5D%20Mobilcut%20320%20TDS"
+  },
+  {
+    "id": "artoil-bor-yagi-16-l",
+    "name": "Artoil Bor Yağı - 16 L",
+    "brand": "artoil",
+    "brandName": "Artoil",
+    "series": "Bor Yağı",
+    "viscosity": "Suda Çözünür",
+    "packageSize": "16 L",
+    "packageType": "Teneke",
+    "inStock": true,
+    "featured": true,
+    "shortDescription": "Artoil Bor Yağı - 16 L, üniversal ve CNC tezgahlarda genel metal işleme için ekonomik ve yüksek soğutma kabiliyetli bor yağıdır.",
+    "description": "<p class=\"lead\"><strong>Artoil Bor Yağı - 16 L</strong>, talaşlı imalat atölyelerinde torna, freze, testere ve matkap işlemlerinde su ile %5-7 oranında karıştırılarak süt beyaz emülsiyon oluşturan, yüksek soğutma ve pas önleme performanslı yerli üretim kaliteli bor yağıdır.</p>",
+    "specs": [
+      {
+        "label": "Tip",
+        "value": "Süt Beyaz Bor Yağı"
+      },
+      {
+        "label": "Tavsiye Oran",
+        "value": "%5 - %7"
+      },
+      {
+        "label": "Marka",
+        "value": "Artoil"
+      }
+    ],
+    "image": "/images/products/artoil-bor-yagi-16-l.png",
+    "msdsUrl": "https://wa.me/905069401210?text=%5Bkesmeyagi.com%5D%20Artoil%20Bor%20Yagi%20MSDS",
+    "tdsUrl": "https://wa.me/905069401210?text=%5Bkesmeyagi.com%5D%20Artoil%20Bor%20Yagi%20TDS"
+  },
+  {
+    "id": "castrol-hysol-mb-50-20-l",
+    "name": "Castrol Hysol MB 50 - 20 L",
+    "brand": "castrol",
+    "brandName": "Castrol",
+    "series": "Hysol MB 50",
+    "viscosity": "Yarı Sentetik",
+    "packageSize": "20 L",
+    "packageType": "Teneke",
+    "inStock": true,
+    "featured": true,
+    "shortDescription": "Castrol Hysol MB 50 - 20 L, bor ve formaldehit içermeyen, yüksek biyo-kararlılığa sahip dünya lideri yarı sentetik bor yağıdır.",
+    "description": "<p class=\"lead\"><strong>Castrol Hysol MB 50 - 20 L</strong>, modern CNC üretiminde operatör sağlığını korumak amacıyla bor ve formaldehit açığa çıkaran kimyasallar içermeyen, olağanüstü uzun tank ömrü ve yüksek işleme performansı sunan premium bir yarı sentetik bor yağıdır.</p>\n\n<h3>Öne Çıkan Özellikleri ve Avantajları</h3>\n<ul>\n  <li><strong>Bor ve Bakterisit İçermeyen Formül:</strong> Kötü kokuları ve bakteri üremesini kimyasal katkılara gerek kalmadan doğal olarak engeller.</li>\n  <li><strong>Alüminyum ve Çelik Uyumu:</strong> Havacılık standartlarında lekesiz işleme imkanı sağlar.</li>\n  <li><strong>Düşük Köpüklenme:</strong> Yüksek basınçlı takım içi su verme sistemlerinde dahi sıfır köpük.</li>\n</ul>",
+    "specs": [
+      {
+        "label": "Tip",
+        "value": "Yarı Sentetik (Borsuz)"
+      },
+      {
+        "label": "Tavsiye Oran",
+        "value": "%5 - %10"
+      },
+      {
+        "label": "Marka",
+        "value": "Castrol"
+      }
+    ],
+    "image": "/images/products/castrol-hysol-mb-50-20-l.png",
+    "msdsUrl": "https://wa.me/905069401210?text=%5Bkesmeyagi.com%5D%20Castrol%20Hysol%20MB%2050%20MSDS",
+    "tdsUrl": "https://wa.me/905069401210?text=%5Bkesmeyagi.com%5D%20Castrol%20Hysol%20MB%2050%20TDS"
+  },
+  {
+    "id": "castrol-hysol-t-15-20-l",
+    "name": "Castrol Hysol T 15 - 20 L",
+    "brand": "castrol",
+    "brandName": "Castrol",
+    "series": "Hysol T 15",
+    "viscosity": "Yarı Sentetik",
+    "packageSize": "20 L",
+    "packageType": "Teneke",
+    "inStock": true,
+    "featured": false,
+    "shortDescription": "Castrol Hysol T 15 - 20 L, ağır talaş kaldırma ve döküm işleme operasyonları için yüksek yağlayıcılığa sahip bor yağıdır.",
+    "description": "<p class=\"lead\"><strong>Castrol Hysol T 15 - 20 L</strong>, döküm demir ve çelik alaşımlarının ağır talaş kaldırma operasyonlarında korozyon ve leke direnci sunan kaliteli yarı sentetik kesme sıvısıdır.</p>",
+    "specs": [
+      {
+        "label": "Tip",
+        "value": "Ağır İşleme Yarı Sentetik Bor Yağı"
+      },
+      {
+        "label": "Marka",
+        "value": "Castrol"
+      }
+    ],
+    "image": "/images/products/castrol-hysol-t-15-20-l.png",
+    "msdsUrl": "https://wa.me/905069401210?text=%5Bkesmeyagi.com%5D%20Castrol%20Hysol%20T%2015%20MSDS",
+    "tdsUrl": "https://wa.me/905069401210?text=%5Bkesmeyagi.com%5D%20Castrol%20Hysol%20T%2015%20TDS"
+  },
+  {
+    "id": "petrol-ofisi-bor-yagi-15-kg",
+    "name": "Petrol Ofisi Bor Yağı - 15 Kg",
+    "brand": "petrol-ofisi",
+    "brandName": "Petrol Ofisi",
+    "series": "Bor Yağı",
+    "viscosity": "Suda Çözünür",
+    "packageSize": "15 Kg",
+    "packageType": "Teneke",
+    "inStock": true,
+    "featured": true,
+    "shortDescription": "Petrol Ofisi Bor Yağı - 15 Kg, talaşlı imalat için mükemmel emülsiyon kararlılığı sunan yerli lider süt beyaz bor yağıdır.",
+    "description": "<p class=\"lead\"><strong>Petrol Ofisi Bor Yağı - 15 Kg</strong>, metal işleme takımlarının aşınmasını önleyen, hızlı soğutma ve etkin pas koruması sağlayan geleneksel süt beyaz bor yağıdır.</p>",
+    "specs": [
+      {
+        "label": "Tip",
+        "value": "Süt Beyaz Bor Yağı"
+      },
+      {
+        "label": "Karışım",
+        "value": "%5 - %8"
+      },
+      {
+        "label": "Marka",
+        "value": "Petrol Ofisi"
+      }
+    ],
+    "image": "/images/products/petrol-ofisi-bor-yagi-15-kg.png",
+    "msdsUrl": "https://wa.me/905069401210?text=%5Bkesmeyagi.com%5D%20PO%20Bor%20Yagi%20MSDS",
+    "tdsUrl": "https://wa.me/905069401210?text=%5Bkesmeyagi.com%5D%20PO%20Bor%20Yagi%20TDS"
+  },
+  {
+    "id": "petrol-ofisi-cleancut-200-yari-sentetik-bor-yagi-20-l",
+    "name": "Petrol Ofisi Cleancut 200 Yarı Sentetik Bor Yağı - 20 L",
+    "brand": "petrol-ofisi",
+    "brandName": "Petrol Ofisi",
+    "series": "Cleancut 200",
+    "viscosity": "Yarı Sentetik",
+    "packageSize": "20 L",
+    "packageType": "Teneke",
+    "inStock": true,
+    "featured": true,
+    "shortDescription": "Petrol Ofisi Cleancut 200 - 20 L, CNC işleme merkezlerinde koku ve bakteri yapmayan yarı sentetik bor yağıdır.",
+    "description": "<p class=\"lead\"><strong>Petrol Ofisi Cleancut 200 - 20 L</strong>, modern talaşlı imalat tezgahlarında uzun tank ömrü, korozyon direnci ve yüksek yüzey kalitesi sağlayan yarı sentetik metal işleme sıvısıdır.</p>",
+    "specs": [
+      {
+        "label": "Tip",
+        "value": "Yarı Sentetik Bor Yağı"
+      },
+      {
+        "label": "Marka",
+        "value": "Petrol Ofisi"
+      }
+    ],
+    "image": "/images/products/petrol-ofisi-cleancut-200-yari-sentetik-bor-yagi-20-l.png",
+    "msdsUrl": "https://wa.me/905069401210?text=%5Bkesmeyagi.com%5D%20PO%20Cleancut%20200%20MSDS",
+    "tdsUrl": "https://wa.me/905069401210?text=%5Bkesmeyagi.com%5D%20PO%20Cleancut%20200%20TDS"
+  }
+]

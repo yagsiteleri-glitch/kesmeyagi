@@ -1,0 +1,49 @@
+{
+  "siteName": "Kesme Yağı & Bor Yağı",
+  "siteTitle": "Kesme Yağı & Bor Yağı Fiyatları | Toptan Metal İşleme Sıvıları",
+  "metaDescription": "Castrol Hysol, Mobilcut, Mobilmet, Petrol Ofisi ve Artoil saf kesme yağı ve bor yağı çeşitleri. CNC tezgahları için toptan fiyat ve aynı gün sevkiyat.",
+  "domain": "https://kesmeyagi.com",
+  "phone": "+90 506 940 1210",
+  "phoneRaw": "+905069401210",
+  "whatsapp": "905069401210",
+  "whatsappMessage": "[kesmeyagi.com] MUSTERI ILETISIM HATTI\n\nMerhaba, kesme ve bor yaglari hakkinda detayli bilgi ve fiyat teklifi almak istiyorum.",
+  "email": "bilgi@kesmeyagi.com",
+  "address": "Arap Camii Mh. Bakır Sk. No:6/A Beyoğlu/İSTANBUL",
+  "primaryColor": "#16a34a",
+  "brands": [
+    {
+      "id": "all",
+      "name": "Tüm Markalar"
+    },
+    {
+      "id": "mobil",
+      "name": "Mobil",
+      "badge": "Mobilcut & Mobilmet",
+      "color": "#dc2626"
+    },
+    {
+      "id": "castrol",
+      "name": "Castrol",
+      "badge": "Hysol Serisi",
+      "color": "#16a34a"
+    },
+    {
+      "id": "petrol-ofisi",
+      "name": "Petrol Ofisi",
+      "badge": "Procut & Cleancut",
+      "color": "#dc2626"
+    },
+    {
+      "id": "artoil",
+      "name": "Artoil",
+      "badge": "Yerli Kalite",
+      "color": "#0ea5e9"
+    }
+  ],
+  "viscosities": [
+    "Tümü",
+    "Saf Kesme Yağları",
+    "Yarı Sentetik Bor Yağları",
+    "Sentetik Taşlama Sıvıları"
+  ]
+}
