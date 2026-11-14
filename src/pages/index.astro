@@ -276,14 +276,14 @@ const shellProducts = products.filter(p => p.brand === 'shell');
       <div class="section-divider-line"></div>
       <div class="seo-content-box">
         <h3>Kesme & Bor Yağı Nedir?</h3>
-        <p>Hidrolik yağı, çeşitli endüstriyel ve otomotiv uygulamalarında sıklıkla kullanılan bir sıvıdır. Su ile birlikte, hidrolik sistemlerin temel bileşenlerinden birini oluşturan bu yağ, mekanik ekipmanların çalışmasını sağlamak, enerji iletimini kolaylaştırmak ve sistemin genel verimliliğini artırmak amacıyla tasarlanmıştır.</p>
+        <p>Kesme ve bor yağı, metal işleme ve talaşlı imalat sanayisinde ve otomotiv uygulamalarında sıklıkla kullanılan bir sıvıdır. Su ile birlikte, talaşlı işleme tezgâhlarının temel bileşenlerinden birini oluşturan bu yağ, mekanik ekipmanların çalışmasını sağlamak, enerji iletimini kolaylaştırmak ve sistemin genel verimliliğini artırmak amacıyla tasarlanmıştır.</p>
 
         <h3>Kesme & Bor Yağının Tanımı ve Özellikleri</h3>
-        <p>Hidrolik yağ, yüksek basınç altında etkili bir şekilde çalışan ve enerji iletimi için gereksinim duyulan bir sıvıdır. Temel özellikleri arasında yüksek viskozite, düşük buharlaşma oranı, geniş sıcaklık aralığında stabil kalabilme yeteneği ve iyi bir akışkanlık bulunmaktadır.</p>
+        <p>Kesme yağı ve soğutma sıvıları (bor yağı), yüksek kesme hızlarında etkili bir şekilde çalışan ve enerji iletimi için gereksinim duyulan bir sıvıdır. Temel özellikleri arasında yüksek viskozite, düşük buharlaşma oranı, geniş sıcaklık aralığında stabil kalabilme yeteneği ve iyi bir akışkanlık bulunmaktadır.</p>
         <p>Aynı zamanda kesme ve bor yağları, metal yüzeyler arasında iyi bir yağlama sağlamak amacıyla aşınmayı azaltıcı ve korozyon önleyici katkı maddeleri ile zenginleştirilmiştir.</p>
 
         <h3>Kesme & Bor Yağının Çeşitleri & Kullanım Alanları</h3>
-        <p>Mineral yağlar doğal kaynaklardan elde edilirken, sentetik hidrolik yağlar belirli sıcaklık ve aşırı basınç koşulları için optimize edilmiştir. Otomotiv sektöründe güç aktarma sistemleri, inşaat ekipmanları, tarım makineleri, sanayi makineleri ve enerji santralleri en yaygın kullanım alanlarıdır.</p>
+        <p>Mineral yağlar doğal kaynaklardan elde edilirken, yarı sentetik ve tam sentetik bor yağları belirli sıcaklık ve aşırı basınç koşulları için optimize edilmiştir. Otomotiv sektöründe güç aktarma sistemleri, inşaat ekipmanları, tarım makineleri, sanayi makineleri ve enerji santralleri en yaygın kullanım alanlarıdır.</p>
       </div>
     </div>
   </section>
@@ -294,7 +294,7 @@ const shellProducts = products.filter(p => p.brand === 'shell');
       <div class="section-title-wrap">
         <div class="section-heading-row">
           <span class="badge badge-amber">Rehberler & Teknik Bilgiler</span>
-          <h2 class="section-heading">Hidrolik Yağ Blog</h2>
+          <h2 class="section-heading">Kesme ve Bor Yağı Blog</h2>
         </div>
         <a href="/blog" class="brand-count-tag brand-count-link">Tüm Yazıları Gör ({blogPosts.length}) →</a>
       </div>
@@ -772,9 +772,14 @@ const shellProducts = products.filter(p => p.brand === 'shell');
 
   /* 4-COLUMN PRODUCT GRID DESKTOP / 2-COLUMN MOBILE */
   .product-cards-grid {
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    gap: 18px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+  }
+  .product-cards-grid > :global(*) {
+    flex: 0 0 270px;
+    max-width: 300px;
   }
 
   /* SEO ARTICLE */
