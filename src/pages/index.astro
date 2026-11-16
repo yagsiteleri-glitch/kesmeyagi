@@ -13,7 +13,7 @@ const shellProducts = products.filter(p => p.brand === 'shell');
 
 <Layout
   title="Kesme & Bor Yağı Fiyatları & Çeşitleri | Toptan Endüstriyel Yağlar"
-  description="Artoil, Castrol, Mobil, Petrol Ofisi ve Shell kesme ve bor yağı çeşitleri. ISO VG 32, 46, 68 endüstriyel hidrolik sistem yağlarında toptan iskonto ve aynı gün stoktan sevkiyat."
+  description="Artoil, Castrol, Mobil, Petrol Ofisi ve Shell kesme ve bor yağı çeşitleri. ISO VG 32, 46, 68 endüstriyel endüstriyel metal işleme ve kesme yağlarında toptan iskonto ve aynı gün stoktan sevkiyat."
 >
   <!-- HERO BRAND BANNERS SHOWCASE (Mobile Responsive, 5 Inner Brand Links) -->
   <section class="banner-grid-section" aria-label="Markalarımız ve Kesme & Bor Yağı Çeşitleri">
@@ -254,6 +254,7 @@ const shellProducts = products.filter(p => p.brand === 'shell');
   </section>
 
   <!-- BRAND SECTION: SHELL -->
+  {shellProducts.length > 0 && (
   <section id="shell" class="brand-catalog-section">
     <div class="container">
       <div class="brand-heading-center">
@@ -269,6 +270,7 @@ const shellProducts = products.filter(p => p.brand === 'shell');
       </div>
     </div>
   </section>
+  )}
 
   <!-- SEO CONTENT ARTICLE -->
   <section class="seo-text-section">
