@@ -1,17 +1,17 @@
 [
   {
-    "id": "artoil-kesme-yagi-16-l",
-    "name": "Artoil Kesme Yağı - 16 L",
+    "id": "artoil-kesme-yagi-15-l",
+    "name": "Artoil Kesme Yağı - 15 L",
     "brand": "artoil",
     "brandName": "Artoil",
     "series": "Saf Kesme Yağı",
     "viscosity": "ISO VG 22",
-    "packageSize": "16 L",
+    "packageSize": "15 L",
     "packageType": "Teneke",
     "inStock": true,
     "featured": true,
-    "shortDescription": "Artoil Kesme Yağı - 16 L, metal işleme ve talaş kaldırma operasyonlarında takım ömrünü uzatan aşırı basınç (EP) katkılı saf kesme yağıdır (Kesme ve Bor Yağı kategorisi orijinal kesme ve bor yağı ürünüdür).",
-    "description": "<p class=\"lead\"><strong>Artoil Kesme Yağı - 16 L</strong>, demir ve çelik alaşımlarının tornalama, frezeleme, delik delme ve diş açma gibi zorlu talaşlı imalat operasyonlarında sürtünmeyi en aza indirmek ve kesici takım ömrünü maksimize etmek üzere yüksek oranda klor ve kükürt içermeyen özel EP katıkları ile formüle edilmiş üstün bir saf kesme yağıdır. Profesyonel <strong>kesme ve bor yağı</strong> uygulamalarında maksimum verimlilik ve ekipman koruması sağlar.</p>\n\n<h3>Öne Çıkan Özellikleri ve Avantajları</h3>\n<ul>\n  <li><strong>Üstün Yağlama ve Takım Ömrü:</strong> Talaş ile takım arasındaki sürtünmeyi azaltarak kesici uç aşınmalarını önler.</li>\n  <li><strong>Duman ve Sis Oluşturmama:</strong> Yüksek sıcaklıklarda duman yapmaz, tezgah operatörleri için temiz ve sağlıklı bir çalışma ortamı sunar.</li>\n  <li><strong>Mükemmel Yüzey Pürüzsüzlüğü:</strong> İşlenen parçalarda ayna parlaklığında hassas yüzey kalitesi sağlar.</li>\n  <li><strong>Korozyon Koruması:</strong> İşleme sonrasında metal parçalarda pas oluşumunu engeller.</li>\n</ul>\n\n<h3>Kullanım ve Uygulama Alanları</h3>\n<p>Otomat torna tezgahları, diş açma, broşlama, kılavuz çekme ve genel talaşlı imalat işlemleri.</p>",
+    "shortDescription": "Artoil Kesme Yağı - 15 L, metal işleme ve talaş kaldırma operasyonlarında takım ömrünü uzatan aşırı basınç (EP) katkılı saf kesme yağıdır (Kesme ve Bor Yağı kategorisi orijinal kesme ve bor yağı ürünüdür).",
+    "description": "<p class=\"lead\"><strong>Artoil Kesme Yağı - 15 L</strong>, demir ve çelik alaşımlarının tornalama, frezeleme, delik delme ve diş açma gibi zorlu talaşlı imalat operasyonlarında sürtünmeyi en aza indirmek ve kesici takım ömrünü maksimize etmek üzere yüksek oranda klor ve kükürt içermeyen özel EP katıkları ile formüle edilmiş üstün bir saf kesme yağıdır. Profesyonel <strong>kesme ve bor yağı</strong> uygulamalarında maksimum verimlilik ve ekipman koruması sağlar.</p>\n\n<h3>Öne Çıkan Özellikleri ve Avantajları</h3>\n<ul>\n  <li><strong>Üstün Yağlama ve Takım Ömrü:</strong> Talaş ile takım arasındaki sürtünmeyi azaltarak kesici uç aşınmalarını önler.</li>\n  <li><strong>Duman ve Sis Oluşturmama:</strong> Yüksek sıcaklıklarda duman yapmaz, tezgah operatörleri için temiz ve sağlıklı bir çalışma ortamı sunar.</li>\n  <li><strong>Mükemmel Yüzey Pürüzsüzlüğü:</strong> İşlenen parçalarda ayna parlaklığında hassas yüzey kalitesi sağlar.</li>\n  <li><strong>Korozyon Koruması:</strong> İşleme sonrasında metal parçalarda pas oluşumunu engeller.</li>\n</ul>\n\n<h3>Kullanım ve Uygulama Alanları</h3>\n<p>Otomat torna tezgahları, diş açma, broşlama, kılavuz çekme ve genel talaşlı imalat işlemleri.</p>",
     "specs": [
       {
         "label": "Ürün Tipi",
@@ -33,7 +33,7 @@
     "image": "/images/products/artoil-kesme-yagi-16-l.png",
     "msdsUrl": "https://wa.me/905069401210?text=%5Bkesmeyagi.com%5D%20Artoil%20Kesme%20Yagi%20MSDS",
     "tdsUrl": "https://wa.me/905069401210?text=%5Bkesmeyagi.com%5D%20Artoil%20Kesme%20Yagi%20TDS",
-    "shortDesc": "Artoil Kesme Yağı - 16 L, metal işleme ve talaş kaldırma operasyonlarında takım ömrünü uzatan aşırı basınç (EP) katkılı saf kesme yağıdır (Kesme ve Bor Yağı kategorisi orijinal kesme ve bor yağı ürünüdür)."
+    "shortDesc": "Artoil Kesme Yağı - 15 L, metal işleme ve talaş kaldırma operasyonlarında takım ömrünü uzatan aşırı basınç (EP) katkılı saf kesme yağıdır (Kesme ve Bor Yağı kategorisi orijinal kesme ve bor yağı ürünüdür)."
   },
   {
     "id": "mobilmet-766-20-l",
@@ -340,18 +340,18 @@
     "shortDesc": "Mobilcut 320 - 20 L, taşlama ve hafif talaşlı imalat için şeffaf, bakteri üretmeyen tam sentetik taşlama sıvısıdır (Kesme ve Bor Yağı kategorisi orijinal kesme ve bor yağı ürünüdür)."
   },
   {
-    "id": "artoil-bor-yagi-16-l",
-    "name": "Artoil Bor Yağı - 16 L",
+    "id": "artoil-bor-yagi-15-l",
+    "name": "Artoil Bor Yağı - 15 L",
     "brand": "artoil",
     "brandName": "Artoil",
     "series": "Bor Yağı",
     "viscosity": "Suda Çözünür",
-    "packageSize": "16 L",
+    "packageSize": "15 L",
     "packageType": "Teneke",
     "inStock": true,
     "featured": true,
-    "shortDescription": "Artoil Bor Yağı - 16 L, üniversal ve CNC tezgahlarda genel metal işleme için ekonomik ve yüksek soğutma kabiliyetli bor yağıdır (Kesme ve Bor Yağı kategorisi orijinal kesme ve bor yağı ürünüdür).",
-    "description": "<p class=\"lead\"><strong>Artoil Bor Yağı - 16 L</strong>, talaşlı imalat atölyelerinde torna, freze, testere ve matkap işlemlerinde su ile %5-7 oranında karıştırılarak süt beyaz emülsiyon oluşturan, yüksek soğutma ve pas önleme performanslı yerli üretim kaliteli bor yağıdır. Profesyonel <strong>kesme ve bor yağı</strong> uygulamalarında maksimum verimlilik ve ekipman koruması sağlar.</p>",
+    "shortDescription": "Artoil Bor Yağı - 15 L, üniversal ve CNC tezgahlarda genel metal işleme için ekonomik ve yüksek soğutma kabiliyetli bor yağıdır (Kesme ve Bor Yağı kategorisi orijinal kesme ve bor yağı ürünüdür).",
+    "description": "<p class=\"lead\"><strong>Artoil Bor Yağı - 15 L</strong>, talaşlı imalat atölyelerinde torna, freze, testere ve matkap işlemlerinde su ile %5-7 oranında karıştırılarak süt beyaz emülsiyon oluşturan, yüksek soğutma ve pas önleme performanslı yerli üretim kaliteli bor yağıdır. Profesyonel <strong>kesme ve bor yağı</strong> uygulamalarında maksimum verimlilik ve ekipman koruması sağlar.</p>",
     "specs": [
       {
         "label": "Tip",
@@ -369,7 +369,7 @@
     "image": "/images/products/artoil-bor-yagi-16-l.png",
     "msdsUrl": "https://wa.me/905069401210?text=%5Bkesmeyagi.com%5D%20Artoil%20Bor%20Yagi%20MSDS",
     "tdsUrl": "https://wa.me/905069401210?text=%5Bkesmeyagi.com%5D%20Artoil%20Bor%20Yagi%20TDS",
-    "shortDesc": "Artoil Bor Yağı - 16 L, üniversal ve CNC tezgahlarda genel metal işleme için ekonomik ve yüksek soğutma kabiliyetli bor yağıdır (Kesme ve Bor Yağı kategorisi orijinal kesme ve bor yağı ürünüdür)."
+    "shortDesc": "Artoil Bor Yağı - 15 L, üniversal ve CNC tezgahlarda genel metal işleme için ekonomik ve yüksek soğutma kabiliyetli bor yağıdır (Kesme ve Bor Yağı kategorisi orijinal kesme ve bor yağı ürünüdür)."
   },
   {
     "id": "castrol-hysol-mb-50-20-l",
